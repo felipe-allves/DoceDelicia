@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+    <a href="#-technologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-projeto">Projeto</a>
 </p>
 
 <p align="center">
@@ -11,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="DoceDelica" src="./public/assets/image/DoceDelicia.png" width="100%">
+    <img alt="DoceDelicia" src="./public/assets/image/DoceDelicia.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,7 +24,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Doce Delícia é um projeto feito para uma loja fictícia de doces, nela tem bolos, tortas, pudim... O intuíto é uma Landing page onde mostrará o que essa loja faz e quais produtos tem.
+A Doce Delícia é um projeto feito para uma loja fictícia de doces. Nela, há bolos, tortas, pudim... O intuito é ser uma landing page que mostra o que essa loja faz e quais produtos oferece.
 
 ## Como usar?
 
