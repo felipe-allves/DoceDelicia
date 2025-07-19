@@ -1,5 +1,6 @@
 import React from "react";
 import "./header.css";
+import "../../styles/styles.css"
 
 const Header = ({ scrollTo }) => {
   const Header = ({ scrollTo }) => {

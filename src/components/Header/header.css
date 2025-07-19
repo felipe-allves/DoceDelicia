@@ -1,5 +1,5 @@
 header {
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(255, 255, 255, 0.75);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     position: fixed;
     width: 100%;
@@ -18,10 +18,10 @@ header nav {
 }
 
 header nav .logo{
-    font-family: 'Playfair Dislay', sans-serif;
+    font-family: "Playfair Dislay";
     font-size: 2rem;
     font-weight: 700;
-    background: linear-gradient(45deg, #FF0000, #FF4444);
+    background: linear-gradient(45deg, #FF0000, #694646);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
