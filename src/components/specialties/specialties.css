@@ -1,0 +1,33 @@
+section.specialties {
+    padding: 6rem 5%;
+    background: #FFEEEE;
+}
+
+section.specialties .specialties-content {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+section.specialties .specialties-content .specialties-grid{
+    display: flex;
+    grid-template-columns: repeat(auto-fit, minmax(300, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+section.specialties .specialties-content .specialties-grid .specialty-card {
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+section.specialties .specialties-content .specialties-grid .specialty-card .specialty-image{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+section.specialties .specialties-content .specialties-grid .specialty-card .specialty-content {
+    padding: 1.5rem;
+}
