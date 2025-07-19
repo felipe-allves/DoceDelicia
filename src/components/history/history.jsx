@@ -3,7 +3,7 @@ import "./history.css";
 
 const History = () => {
   return (
-    <section className="history">
+    <section  id="sobre" className="history">
       <div className="history-content">
         <div>
           <h2>Nossa História</h2>

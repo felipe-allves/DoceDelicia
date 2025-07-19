@@ -12,10 +12,10 @@ const Hero = () => {
         </h1>
         <p>Confeitaria artesanal com receitas exclusivas e tradicionais</p>
         <div className="hero-cta">
-          <a href="" className="cta-button primary">
+          <a href="#produtos" onClick={(e) => handleClick(e, "produtos")} className="cta-button primary">
             Nossos Doces
           </a>
-          <a href="" className="cta-button secondary">
+          <a href="#produtos" onClick={(e) => handleClick(e, "produtos")} className="cta-button secondary">
             Promoções
           </a>
         </div>
