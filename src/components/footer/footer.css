@@ -1,0 +1,27 @@
+footer{
+    background: #000000;
+    color: white;
+    padding: 3rem 5%;
+}
+
+footer .footer-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+footer .footer-content .footer-section h4 {
+    margin-bottom: 1rem;
+}
+
+footer .footer-content .footer-section .social-links {
+    display: flex;
+    gap: 1rem;
+}
+
+footer .footer-content .footer-section .social-links a{
+    color: #FF0000;
+    text-decoration: none;
+}
