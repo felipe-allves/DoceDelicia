@@ -4,6 +4,7 @@ import Hero from './components/hero/Hero'
 import Benefits from './components/benefits/benefits'
 import Products from './components/Products/products'
 import Specialties from './components/specialties/specialties'
+import History from './components/history/history'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,6 +16,7 @@ function App() {
       <Benefits/>
       <Products/>
       <Specialties/>
+      <History/>
     </>
   )
 }
