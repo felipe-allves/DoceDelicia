@@ -1,12 +1,42 @@
-# React + Vite
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img alt="DoceDelica" src="./public/assets/image/DoceDelicia.png" width="100%">
+</p>
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- NodeJS
+- React
+
+## 💻 Projeto
+
+A Doce Delícia é um projeto feito para uma loja fictícia de doces, nela tem bolos, tortas, pudim... O intuíto é uma Landing page onde mostrará o que essa loja faz e quais produtos tem.
+
+## Como usar?
+
+Depois de baixar este repositório, abra o terminal e acesse o diretório do projeto.
+
+1. Execute o comando `npm install` para instalar as dependências.
+2. Para iniciar a aplicação, use o comando `npm run dev`.
+3. Acesse o endereço exibido no terminal (geralmente `http://localhost:5173`) para visualizar o projeto no navegador.
+
+Este projeto utiliza [Vite](https://vitejs.dev/) para desenvolvimento rápido com React.
+---
+
+Obrigado por ver este projeto <3
