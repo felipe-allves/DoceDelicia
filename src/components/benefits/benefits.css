@@ -1,0 +1,26 @@
+section.benefits {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap:  2rem;
+    padding: 4rem 5%;
+    background: white;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+section.benefits .benefit-item{
+    text-align: center;
+    padding: 2rem;
+    background: #fff;
+    border: 1px solid #ffeeee;
+    transition: transform 0.3s;
+}
+
+section.benefits .benefit-item:hover{
+    transform: translateY(-5px);
+}
+
+section.benefits .benefit-icon{
+    margin-bottom: 1rem;
+    color: #FF0000;
+}

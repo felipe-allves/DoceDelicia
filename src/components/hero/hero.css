@@ -50,3 +50,28 @@ section.hero .main-hero-image{
 section.hero .hero-image svg {
     animation: float 6s ease-in-out infinite;
 }
+
+section.hero .hero-cta .cta-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+section.hero .hero-cta .cta-button.primary {
+    background: #FF0000;
+    color: white;
+}
+
+section.hero .hero-cta .cta-button.secondary {
+    background: transparent;
+    color: #FF0000;
+    border: 2px solid #FF0000;
+}
+
+section.hero .hero-cta .cta-button:hover{
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
