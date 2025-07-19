@@ -1,40 +1,63 @@
 <p align="center">
-    <a href="#-technologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-projeto">Projeto</a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como usar</a>
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-<br>
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+</p>
 
 <p align="center">
-    <img alt="DoceDelicia" src="./public/assets/image/DoceDelicia.png" width="100%">
+  <img alt="Doce Delícia" src="./public/assets/image/DoceDelicia.png" width="100%">
 </p>
+
+---
 
 ## 🚀 Tecnologias
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
-- NodeJS
-- React
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React JS
+- Vite
 
 ## 💻 Projeto
 
-A Doce Delícia é um projeto feito para uma loja fictícia de doces. Nela, há bolos, tortas, pudim... O intuito é ser uma landing page que mostra o que essa loja faz e quais produtos oferece.
+**Doce Delícia** é um projeto fictício de landing page para uma confeitaria artesanal.
 
-## Como usar?
+O objetivo é apresentar os principais produtos da loja, contar sua história, exibir diferenciais e oferecer formas de contato — tudo em um layout moderno e responsivo.
 
-Depois de baixar este repositório, abra o terminal e acesse o diretório do projeto.
+Funcionalidades incluídas:
 
-1. Execute o comando `npm install` para instalar as dependências.
-2. Para iniciar a aplicação, use o comando `npm run dev`.
-3. Acesse o endereço exibido no terminal (geralmente `http://localhost:5173`) para visualizar o projeto no navegador.
+- Scroll suave entre seções com `scrollIntoView()`
+- Estilo global com CSS puro
+- Componentização com React
+- Layout 100% responsivo
+- Separação clara entre estrutura e estilo
 
-Este projeto utiliza [Vite](https://vitejs.dev/) para desenvolvimento rápido com React.
+## 📦 Como usar
+
+Depois de clonar ou baixar este repositório, abra o terminal e siga os passos:
+
+```bash
+# Instalar as dependências
+npm install
+
+# Iniciar o servidor de desenvolvimento
+npm run dev
+
+# Acesse no navegador
+http://localhost:5173
+```
+
+
+Projeto desenvolvido com [Vite](https://vitejs.dev/) para performance e agilidade no desenvolvimento com React.
 ---
 
-Obrigado por ver este projeto <3
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b0e1220-87aa-4f82-b311-a9af215130ca/deploy-status)](https://app.netlify.com/projects/docedeliciaa/deploys)
+
+
+Feito com ❤️ por Felipe Alves – Obrigado por visitar este projeto!
