@@ -5,6 +5,7 @@ import Benefits from './components/benefits/benefits'
 import Products from './components/Products/products'
 import Specialties from './components/specialties/specialties'
 import History from './components/history/history'
+import Contact from './components/contact/contact'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +18,7 @@ function App() {
       <Products/>
       <Specialties/>
       <History/>
+      <Contact/>
     </>
   )
 }
