@@ -57,7 +57,7 @@ http://localhost:5173
 Projeto desenvolvido com [Vite](https://vitejs.dev/) para performance e agilidade no desenvolvimento com React.
 ---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1b0e1220-87aa-4f82-b311-a9af215130ca/deploy-status)](https://app.netlify.com/projects/docedeliciaa/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b0e1220-87aa-4f82-b311-a9af215130ca/deploy-status)](https://docedeliciaa.netlify.app)
 
 
 Feito com ❤️ por Felipe Alves – Obrigado por visitar este projeto!
